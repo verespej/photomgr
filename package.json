@@ -1,0 +1,10 @@
+{
+  "name": "photomgr",
+  "description": "Manage and backup media library",
+  "version": "0.0.1",
+  "main": "photomgr.js",
+  "dependencies": {
+    "exif": "^0.4.0"
+  },
+  "devDependencies": {}
+}
